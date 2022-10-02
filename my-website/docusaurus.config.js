@@ -40,7 +40,7 @@ const config = {
             'https://github.com/karais89/karais89.github.io/tree/main/my-website/',
         },
         blog: {
-          // routeBasePath: '/',
+          routeBasePath: '/',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
