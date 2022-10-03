@@ -65,6 +65,7 @@ const config = {
         language: ["ko", "en"],
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
+        blogRouteBasePath: "/",
       },
     ],
   ],
