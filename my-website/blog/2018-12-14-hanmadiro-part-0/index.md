@@ -4,8 +4,6 @@ authors: [karais89]
 tags: [english]
 ---
 
-
-
 [한마디로 닷컴](https://hanmadiro.com/) 내용 정리
 
 ## CHAPTER 1 - UNIT 1
