@@ -57,6 +57,17 @@ const config = {
       }),
     ],
   ],
+  themes: [
+    [
+      "@easyops-cn/docusaurus-search-local",
+      {
+        hashed: true,
+        language: ["ko", "en"],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+      },
+    ],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -134,29 +145,6 @@ const config = {
       },
       colorMode: {
         respectPrefersColorScheme: true,
-      },
-      algolia: {
-        // 알골리아에서 제공한 appId를 사용하세요.
-        appId: 'UJCTEGEXU7',
-  
-        // 공개 API 키: 커밋해도 문제가 생기지 않습니다.
-        apiKey: 'e607f038e994fcc49e8a2b04b0f88091',
-  
-        indexName: 'karais89.github.io',
-  
-        // 옵션: 아래 문서를 참고
-        contextualSearch: true,
-  
-        // 옵션: history.push 대신 window.location을 통해 탐색해야 하는 도메인을 지정합니다. 여러 문서 사이트를 크롤링하고 window.location.href를 사용하여 해당 사이트로 이동하려는 경우에 유용한 알골리아 설정입니다.
-        externalUrlRegex: 'external\\.com|domain\\.com',
-  
-        // 옵션: 알골리아 검색 파라미터
-        searchParameters: {},
-  
-        // 옵션: 기본적으로 활성화된 검색 페이지 경로(비활성화하려면 `false`로 설정)
-        searchPagePath: 'search',
-  
-        //... 다른 알골리아 파라미터
       },
     }),
 
