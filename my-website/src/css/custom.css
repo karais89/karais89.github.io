@@ -3,9 +3,14 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
+@font-face {
+  font-family: "CascadiaCode";
+  src: url('/static/fonts/CascadiaCode.woff2') format('woff');
+}
 
 /* You can override the default Infima variables here. */
 :root {
+  --ifm-font-family-monospace: "CascadiaCode";
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
