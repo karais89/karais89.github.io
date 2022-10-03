@@ -10,7 +10,7 @@ const config = {
   tagline: 'Lonpeach Tech are cool',
   url: 'https://tech.lonpeach.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
