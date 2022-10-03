@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3727],{30182:e=>{e.exports=JSON.parse('{"permalink":"/tags/unity-3-d/page/3","page":3,"postsPerPage":10,"totalPages":4,"totalCount":38,"previousPage":"/tags/unity-3-d/page/2","nextPage":"/tags/unity-3-d/page/4","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
