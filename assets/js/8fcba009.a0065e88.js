@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[71540],{97870:e=>{e.exports=JSON.parse('{"label":"jekyll","permalink":"/tags/jekyll","allTagsPath":"/tags","count":6}')}}]);

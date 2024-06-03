@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[21775],{15113:e=>{e.exports=JSON.parse('{"permalink":"/tags/codewars/page/7","page":7,"postsPerPage":10,"totalPages":7,"totalCount":63,"previousPage":"/tags/codewars/page/6","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

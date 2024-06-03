@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[59784],{23158:e=>{e.exports=JSON.parse('{"label":"infcon","permalink":"/tags/infcon","allTagsPath":"/tags","count":1}')}}]);
