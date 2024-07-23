@@ -163,7 +163,7 @@ const config = {
             {
               tagName: 'link',
               rel: 'icon',
-              href: '/img/docusaurus.png',
+              href: '/img/icons/128.png',
             },
             {
               tagName: 'link',
